@@ -20,19 +20,19 @@ import {
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
-  name: "Bartosz Jarocki",
-  initials: "BJ",
-  location: "Wrocław, Poland, CET",
-  locationLink: "https://www.google.com/maps/place/Wrocław",
+  name: "Rennan Lino Santos",
+  initials: "RLS",
+  location: "Recife - PE",
+  locationLink: "https://www.google.com/maps/place/Recife",
   about:
-    "Full Stack Engineer focused on building products with extra attention to detail",
+    "Desenvolvedor Web BackEnd",
   summary:
-    "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
+    "Estou passando por uma transição de carreira ",
+  avatarUrl: "https://avatars.githubusercontent.com/u/104281959?v=4",
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
-    email: "bartosz.jarocki@hey.com",
-    tel: "+48530213401",
+    email: "rlino.dev@gmail.com.com",
+    tel: "+5581991076547",
     social: [
       {
         name: "GitHub",
@@ -105,13 +105,15 @@ export const RESUME_DATA = {
     },
   ],
   skills: [
+    "C#",
+    "ASP.NET",
+    "SQL Server",
+    "SSIS",
+    "SSAS",
+    "Java",
+    "HTML",
+    "CSS",
     "JavaScript",
-    "TypeScript",
-    "React/Next.js/Remix",
-    "Node.js",
-    "GraphQL",
-    "Relay",
-    "WebRTC",
   ],
   projects: [
     {
