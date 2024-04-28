@@ -125,7 +125,7 @@ export const RESUME_DATA = {
     {
       title: "Programação orientada a objetos JAVA",
       techStack: ["Java UML", "JDBC", "JavaFX", "Spring Boot", "JPA", "Hibernate", "MySQL", "MongoDB"],
-      description: "A platform to build and grow your online business",
+      description: "Curso didático e completo de Java e OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB",
       logo: ConsultlyLogo,
       link: {
         label: "consultly.com",
@@ -136,7 +136,7 @@ export const RESUME_DATA = {
       title: "The Ultimate MySQL Bootcamp",
       techStack: ["T-SQL", "MySQL", "MySQL Workbench"],
       description:
-        "Browser extension that records everything happening in a web application",
+        "Criar banco de dados e interagir com bancos de dados existentes, Escrever consultas complexas de junção SQL em diversas tabelas, Dominar as funções da janela MySQL 8 (LEAD, LAG, RANK, etc.), Modelar dados gerar relatórios usando SQL;",
       logo: MonitoLogo,
       link: {
         label: "monito.dev",
@@ -147,7 +147,7 @@ export const RESUME_DATA = {
       title: "Programador Back-End",
       techStack: ["C#", ".NET", "SQL Server"],
       description:
-        "My personal website and blog. Built with Next.js and Notion API",
+        "Desenvolver competências que possibilitem ao concluinte programar sistemas utilizando as principais tecnologias do back-end, desenvolvendo as regras de negócio, ou seja, programar toda a parte não visual do sistema, não envolvendo a ação do usuário, utilizando a linguagem de programação C#, considerando as normas, padrões e requisitos técnicos, de qualidade, saúde e segurança e de sustentabilidade.",
       logo: JarockiMeLogo,
       link: {
         label: "github.com",
