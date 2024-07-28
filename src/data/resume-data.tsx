@@ -25,13 +25,13 @@ export const RESUME_DATA = {
   location: "Recife - PE",
   locationLink: "https://www.google.com/maps/place/Recife",
   about:
-    "Desenvolvedor Web BackEnd",
+    "BackEnd Web Developer",
   summary:
-    "Profissional altamente motivado procurando uma vaga de nível de entrada em Desenvolvimento Web BackEnd. Possui experiência no desenvolvimento e integração de soluções BI com aplicações web e na construção de aplicações de foco administrativo. Atualmente em transição de carreira da formação em Engenharia Civil, anseia a encontrar novos desafios, fortalecer suas habilidades técnicas e interpessoais e colaborar com um time diverso.",
+    "Highly motivated professional looking for an entry-level role in BackEnd Web Development. He has experience in developing and integrating BI solutions with web applications and in building administrative-focused applications. Currently in a career transition from training in Civil Engineering, he is looking forward to finding new challenges, strengthening his technical and interpersonal skills and collaborating with a diverse team.",
   avatarUrl: "https://avatars.githubusercontent.com/u/104281959?v=4",
-  personalWebsiteUrl: "https://jarocki.me",
+  //personalWebsiteUrl: "https://jarocki.me",
   contact: {
-    email: "rlino.dev@gmail.com.com",
+    email: "rlino.dev@gmail.com",
     tel: "+5581991076547",
     social: [
       {
@@ -41,7 +41,7 @@ export const RESUME_DATA = {
       },
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/rennan-lino-85928b17a/",
+        url: "https://www.linkedin.com/in/rennan-lino",
         icon: LinkedInIcon,
       },
       // {
@@ -54,13 +54,13 @@ export const RESUME_DATA = {
   education: [
     {
       school: "Universidade Católica de Pernambuco (UNICAP)",
-      degree: "Bacharelado em Enganharia Civil",
+      degree: "Bachelor in Civil Engineering",
       start: "2014",
       end: "2020",
     },
     {
       school: "Universidade do Norte do Paraná (UNOPAR)",
-      degree: "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+      degree: "Technologist in Systems Analysis and Development",
       start: "2022",
       end: "2024",
     },
@@ -70,44 +70,44 @@ export const RESUME_DATA = {
       company: "Autarquia de Urbanização do Recife (URB)",
       link: "https://www2.recife.pe.gov.br/pagina/autarquia-de-urbanizacao-do-recife-urb",
       badges: [],
-      title: "Estagiário",
+      title: "Intern",
       logo: ParabolLogo,
       start: "03/2019",
       end: "06/2020",
       description:
-        "Acompanhamento de obras de pavimentação, drenagem, contenção, escadarias e revestimentos de taludes. Elaboração de planilhas de orçamento. Acompanhamento vistorias e auxiliar na emissão de parecer.",
+        "Monitoring of paving, drainage, containment, staircases and slope covering works. Preparation of budget spreadsheets. Monitoring inspections and assisting in issuing reports.",
     },
     {
       company: "Mult Técnica Engenharia",
       link: "https://www.instagram.com/multtecnicaengenharia/",
       badges: [],
-      title: "Auxiliar de Engenharia Civil",
+      title: "Civil Engineering Assistant",
       logo: ClevertechLogo,
       start: "11/2021",
       end: "07/2022",
       description:
-        "Atendimento aos clientes após a entrega da obra, enquanto vigorar o prazo legal de garantia, com serviços voltados predominantemente à execução de reparos, para sanar possíveis falhas percebidas pelos usuários quando da utilização da edificação.",
+        "Customer service after delivery of residential complex, while the legal warranty period is in effect, with services aimed predominantly at carrying out repairs, to remedy possible faults perceived by users.",
     },
     {
       company: "High Ease",
       link: "http://hie.tec.br/",
       badges: [],
-      title: "Desenvolvedor Backend Jr",
+      title: "Backend Developer Jr",
       logo: JojoMobileLogo,
       start: "03/2023",
       end: "06/2023",
       description:
-        "Realizar correções, análise, desenvolvimento de novos requisitos e modelagem de dados, com objetivo de estudar e implementar sistemas de acordo com as regras de negócio. Analisar o desempenho de sistemas, solucionando problemas técnicos.",
+        "Carry out corrections, analysis, development of new requirements and data modeling, with the aim of studying and implementing systems in accordance with business rules. Analyze system performance, solving technical problems.",
     },
     {
       company: "High Ease",
       link: "http://hie.tec.br/",
       badges: ["Hibrido"],
-      title: "Desenvolvedor ETL Jr",
+      title: "ETL Developer Jr",
       logo: NSNLogo,
       start: "09/2023",
       end: "04/2024",
-      description: "Desenvolvimento, teste e manutenção de soluções de ETL. Projetar e criar mapeamentos e trabalhos de ETL. Criação de procedimentos armazenados para realizar operações de banco de dados. Realização de ajustes e otimização do desempenho do banco de dados. Desenvolvimento e otimização de consultas de banco de dados.",
+      description: "Development, testing and maintenance of ETL solutions. Design and create mappings and ETL jobs. Creating stored procedures to perform database operations. Performing adjustments and optimizing database performance. Development and optimization of database queries",
     },
   ],
   skills: [
@@ -123,9 +123,9 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
-      title: "Programação orientada a objetos JAVA",
+      title: "Object-Oriented Programming in JAVA",
       techStack: ["Java UML", "JDBC", "JavaFX", "Spring Boot", "JPA", "Hibernate", "MySQL", "MongoDB"],
-      description: "Curso didático e completo de Java e OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB",
+      description: "Complete and didactic course of Java and OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB",
       logo: ConsultlyLogo,
       link: {
         label: "consultly.com",
@@ -136,7 +136,7 @@ export const RESUME_DATA = {
       title: "The Ultimate MySQL Bootcamp",
       techStack: ["T-SQL", "MySQL", "MySQL Workbench"],
       description:
-        "Criar banco de dados e interagir com bancos de dados existentes, Escrever consultas complexas de junção SQL em diversas tabelas, Dominar as funções da janela MySQL 8 (LEAD, LAG, RANK, etc.), Modelar dados gerar relatórios usando SQL;",
+        "Create database and interact with existing databases. Write complex SQL join queries on several tables. Master the functions of the MySQL 8 window (LEAD, LAG, RANK, etc.). Model data, generate reports using SQL.",
       logo: MonitoLogo,
       link: {
         label: "monito.dev",
@@ -144,10 +144,10 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Programador Back-End",
+      title: "BackEnd Developer - SENAI",
       techStack: ["C#", ".NET", "SQL Server"],
       description:
-        "Desenvolver competências que possibilitem ao concluinte programar sistemas utilizando as principais tecnologias do back-end, desenvolvendo as regras de negócio, ou seja, programar toda a parte não visual do sistema, não envolvendo a ação do usuário, utilizando a linguagem de programação C#, considerando as normas, padrões e requisitos técnicos, de qualidade, saúde e segurança e de sustentabilidade.",
+        "Develop skills that enable the graduate to program systems using the main back-end technologies, developing business rules, that is, programming the entire non-visual part of the system, not involving user action, using the C# programming language, considering technical, quality, health and safety and sustainability norms, standards and requirements.",
       logo: JarockiMeLogo,
       link: {
         label: "github.com",
@@ -158,7 +158,7 @@ export const RESUME_DATA = {
       title: "Web API ASP.NET Core Essencial",
       techStack: ["ASP.NET Core", "MySQL"],
       description:
-        "Apresenta os conceitos essenciais para a criação de Web APIs na plataforma .NET de forma objetiva e prática abordando os principais recursos da ASP .NET Core",
+        "Presents the essential concepts for creating Web APIs on the .NET platform in an objective and practical way, covering the main features of ASP .NET Core.",
       logo: Minimal,
       link: {
         label: "useminimal.com",
