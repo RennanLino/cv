@@ -29,7 +29,7 @@ export const RESUME_DATA = {
   summary:
     "Profissional altamente motivado procurando uma vaga de nível de entrada em Desenvolvimento Web BackEnd. Possui experiência no desenvolvimento e integração de soluções BI com aplicações web e na construção de aplicações de foco administrativo. Atualmente em transição de carreira da formação em Engenharia Civil, anseia a encontrar novos desafios, fortalecer suas habilidades técnicas e interpessoais e colaborar com um time diverso.",
   avatarUrl: "https://avatars.githubusercontent.com/u/104281959?v=4",
-  //personalWebsiteUrl: "https://jarocki.me",
+  personalWebsiteUrl: "",
   contact: {
     email: "rlino.dev@gmail.com.com",
     tel: "+5581991076547",
